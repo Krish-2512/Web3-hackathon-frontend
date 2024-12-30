@@ -55,7 +55,7 @@ only restricted voters can vote.
 This screen displays all registerd resorts, as well as any shared resorts (i.e.,shared to which someone else has granted you access for a limited time). From this screen, you can manage all your resorts, including those to which you have access. Additionally, you can check in into your resort using the form in the bottom left corner .
 
 ![Resort1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort4.png)
-![Resort2](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort2.png)
+![Resort2](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort5.png)
 ![Resort3](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort1.png)
 
 -------
