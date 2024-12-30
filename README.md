@@ -34,20 +34,21 @@ This screen holds the main structure of the website. It contains different optio
 ### Docker Screen
 This screen gives you all the documents uploaded by you, you can upload more documents to it. For managing documents, I have used IPFS as storing big files on the Blockchain is expensive
 
-![ipfs1](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/ipfs1.png)
+![ipfs1](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/docker1.png)
 
 
 ### Voter Screen
 It offers the option to create a new poll and displays all the polls in our contract along with their results. This ensures there is no tampering mechanism by not revealing which users have voted for which option.
 
-![Voting1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/vote2.jpg)
+![Voting1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/vote2.png)
 
 
 ### Building Access Screen
 This screen displays all your permanent properties, as well as any temporary ones (i.e., properties to which someone else has granted you access for a limited time). From this screen, you can manage all your properties, including those to which you have access. Additionally, you can check who has entered your property using the form in the bottom left corner 
 
-![Property1](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/Property1.png)
-![Property2](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/Property2.png)
+![Resort1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort3.png)
+![Resort2](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort2.png)
+![Resort3](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort1.png)
 
 
 ### dotenv
