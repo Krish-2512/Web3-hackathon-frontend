@@ -26,9 +26,8 @@ The const folder inside the src folder contains the addresses of all the smart c
 ### Home Screen
 This screen holds the main structure of the website. It contains different options to perform different tasks to request and send claims to other users or receive and send information to other users. This screen contains the AVATAR for the person, which is made by using GenAI
 
-![Home1](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/Home1.png)
-![Home2](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/Home2.png)
-![Home3](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/Home3.png)
+![Home1](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/homepg5.png)
+
 
 
 
