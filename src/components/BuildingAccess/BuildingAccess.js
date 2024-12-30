@@ -256,7 +256,7 @@ const HomePage = () => {
         <div className="line"></div>
         <div className="temp-properties">
           <div className="t-heading">
-            <div className="Perm-Heading">Resorts Provided</div>
+            <div className="Perm-Heading">Shared Resorts</div>
           </div>
           <div className="temp-cards">
             {tempData.length > 0 ? (
