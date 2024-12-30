@@ -39,12 +39,12 @@ This screen gives you all the documents uploaded by you, you can upload more doc
 
 ### Voter Screen
 It offers the option to create a new poll and displays all the polls in our contract along with their results. This ensures there is no tampering mechanism by not revealing which users have voted for which option.
-
+![Voting2](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/vote1.png)
 ![Voting1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/vote2.png)
 
 
-### Building Access Screen
-This screen displays all your permanent properties, as well as any temporary ones (i.e., properties to which someone else has granted you access for a limited time). From this screen, you can manage all your properties, including those to which you have access. Additionally, you can check who has entered your property using the form in the bottom left corner 
+### Accomodation Access Screen
+This screen displays all resgisterd resorts, as well as any temporary ones (i.e., properties to which someone else has granted you access for a limited time). From this screen, you can manage all your properties, including those to which you have access. Additionally, you can check who has entered your property using the form in the bottom left corner 
 
 ![Resort1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort4.png)
 ![Resort2](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort2.png)
