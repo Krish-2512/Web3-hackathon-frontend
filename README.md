@@ -1,6 +1,7 @@
 # DOC-Chain Frontend
 >**DocChain**
->**Enhancing Sustainable Eco-Tourism in Northeast India:** A Blockchain-Based Solution with Transparent Voting, Claims Management, and Secure Deployment
+>*Revolutionizing Sustainable Eco-Tourism in Northeast India*
+>A Blockchain-Powered Solution for Transparent Voting, Claims Management, Handling sensitive informations,Secure Deployment, and Resort Booking.
 
 ---
 
