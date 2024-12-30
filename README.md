@@ -39,12 +39,11 @@ This screen gives you all the documents uploaded by you, you can upload more doc
 
 ### Voter Screen
 This feature uses blockchain technology to promote efficient, transparent, and accountable decision-making.
-#Key Highlights:
+# Key Highlights:
 1.**Inefficient Decision-Making:** Multi-level voting brings in various viewpoints, accelerates processes, and meets local needs.
 2.**Limited Accountability:** With blockchain, every vote is recorded, enhancing transparency and encouraging responsible governance.
 ![Votingpg](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/motive1.png)
-![Votingpg2](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/motive2.png)
-![Votingpg3](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/motive3.png)
+
 It offers the option to create a new poll and displays all the polls in our contract along with their results. This ensures there is no tampering mechanism by not revealing which users have voted for which option.
 only restricted voters can vote.
 
