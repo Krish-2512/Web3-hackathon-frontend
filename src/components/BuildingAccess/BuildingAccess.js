@@ -146,7 +146,7 @@ const HomePage = () => {
       <hr className="line" />
       <div className= "title"><h1>
 
-      <span>B</span>OOKING <span></span>ESORTS
+      <span>B</span>OOKING <span>R</span>ESORTS
           </h1></div>
       <br />
       <br />
