@@ -40,7 +40,7 @@ This screen gives you all the documents uploaded by you, you can upload more doc
 ### Voter Screen
 It offers the option to create a new poll and displays all the polls in our contract along with their results. This ensures there is no tampering mechanism by not revealing which users have voted for which option.
 
-![Voting1](https://github.com/guptaaditya30121/thirdweb-app/blob/master/img/Voting1.png)
+![Voting1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/vote2.jpg)
 
 
 ### Building Access Screen
