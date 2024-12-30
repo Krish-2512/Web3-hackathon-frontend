@@ -82,6 +82,6 @@ and copy and paste this api key to the env file in STABLE_API
 
 #### Aditya Gupta
 
-- Email - [aditya.cse21@iitg.ac.in](mailto:aditya.cse21@iitg.ac.in)
-- Github - [guptaaditya30121](https://github.com/guptaaditya30121)
+- Email - [vaibhavjangid2111@gmail.com](mailto:vaibhavjangid2111@gmail.com)
+- Github - [vaibhavj2111](https://github.com/vaibhavj2111)
 <!---->
