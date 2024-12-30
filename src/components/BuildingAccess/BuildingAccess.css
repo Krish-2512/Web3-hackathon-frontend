@@ -96,7 +96,7 @@
     position: absolute;
     object-fit:contain ;
     right: 0vw ;
-    left:43vw;
+    /* left:43vw; */
     top: 21vh;
     width: 38vw;
     height: 38vh;

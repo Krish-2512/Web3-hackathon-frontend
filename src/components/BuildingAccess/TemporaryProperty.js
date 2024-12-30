@@ -68,7 +68,7 @@ const TemporaryProperty = ({ overlapGroupClassName, data }) => {
     <div className="temp-frame">
       <div className={`temp-overlap-group ${overlapGroupClassName}`}>
         <div className="temp-div-wrapper">
-          <div className="temp-text-wrapper">Property ID : {data}</div>
+          <div className="temp-text-wrapper">Resort ID : {data}</div>
         </div>
       </div>
       <div className="temp-div-5">

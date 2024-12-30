@@ -70,7 +70,7 @@ const PropertySection = ({ overlapGroupClassName, data }) => {
      
       <div className={`overlap-group ${overlapGroupClassName}`}>
         <div className="div-wrapper">
-          <div className="text-wrapper">Property Number: {data}</div>
+          <div className="text-wrapper">Resort Number: {data}</div>
         </div>
       </div>
       <div className="div-4">

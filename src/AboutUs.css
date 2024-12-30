@@ -9,14 +9,21 @@
 }
 
 .about-us{
-    background: linear-gradient(135deg, #0B1623, #439E9F, #217974);
+    /* background: linear-gradient(135deg, #0B1623, #439E9F, #217974); */
     height: fit-content;
+    background-image: url('./components/Assets/aboutImg.jpg');
+
+    background-size: cover; /* Increase this value to zoom out further */
+    background-repeat: no-repeat;
+    background-position: center;
+    color:#0B1623
 }
 .about-us .header-left .logo span {
     font-family: sans-serif;
     font-weight: 300; /* Light */
     font-style: italic;
     font-size: 36px;
+    color:#0B1623
 }
 .about-us .header-left .logo span.chain {
     font-family: sans-serif;
@@ -25,7 +32,15 @@
     font-size: 36px;
 }
 .about-us{
-    color: #FFFFEC ;
+    color:#ff6803
+    
+}
+.about-us h2{
+    color:red;
+
+}
+.about-us h1{
+    color:blue;
     
 }
 .about-container{

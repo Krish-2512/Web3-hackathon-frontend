@@ -26,9 +26,34 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+#vote{
+    font:Petrona;
 
+    font-weight:bold;
+    text-align: center;
+}
+.mainhead h1{
+    font-size: 36px;
+}
+  .mainhead h1 span{
+    font-size: 48px;
+
+  }
+  .mainhead h2{
+    font-size:36px;
+    color:rgb(21, 29, 56);
+    
+  }
+  .mainhead p{
+    font-size: 25px;
+    color: red;
+    font-style: italic;
+    background-color: black;
+    display: inline-block;
+  }
 .votingPg {
-    background: linear-gradient(135deg, #0B1623, #439E9F, #217974);
+    /* background: linear-gradient(135deg, #0B1623, #439E9F, #217974); */
+    background-image: url('./components/Assets/vote2.jpg');
     color: #FFFFEC; /* Set text color to white */
     padding: 2vw; /* Add padding for better readability */
     height: fit-content;

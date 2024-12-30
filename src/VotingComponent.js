@@ -146,8 +146,14 @@ const VotingComponent = () => {
                 </div>
             </header>
             <hr className="line" /><br/>
+            <div className="mainhead">
+            <h1 id ="vote"><span>C</span>ast <span>Y</span>our <span>V</span>ote</h1>
+            <h2>Quote</h2>
+            <p>Feel free to cast your vote with confidence—your vote will remain completely anonymous.</p>
             <div className="master">
+            
                 <div className="voting">
+                
                     <div className='voting_header'>Voting</div>
                     <div className="box-voting">
                         <div className='name_input'>Purpose</div>
@@ -276,6 +282,7 @@ const VotingComponent = () => {
                     </div>
                 </div>
             </div>
+        </div>
         </div>
     );
 };

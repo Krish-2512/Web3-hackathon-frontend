@@ -1,4 +1,4 @@
-.navbar{
+.navbar{background-color:rgb(182, 37, 182);
     display: flex !important;
     flex-direction: row !important;
     justify-content: space-between !important;
@@ -6,7 +6,9 @@
     position: sticky;
     top: 0vh;
     z-index: 2;
-    background-color: #FFFFEC;
+    /* background-color: #FFFFEC; */
+    
+     
 }
 .navbar_left{
     display: flex;
@@ -16,7 +18,7 @@
     margin-left: 2vw;
     /* border: 2px solid red; */
     /* background-color: black; */
-    color: rgb(0, 0, 0);
+    /* color: rgb(0, 0, 0); */
     align-items: center;
 }
 
@@ -24,23 +26,31 @@
     display: flex;
     flex-direction: row;
     gap: 2vw;
+    
 }
 
 .nav_component{
     font-weight: 600;
     font-size: 1.3rem;
     text-decoration: none;
-    color: #05413e;
-    font-family: 'Petrona';
-    /* background-color: #FFFFFF; */
+    /* color: #05413e; */
+    color: black;
+    font-family:inherit;
+    
+   
+   
 }
 
 .nav_component:hover{
-    color: white;
-    background: linear-gradient(135deg, #0B1623, #439E9F, #217974);
-    padding: 10px;
+   
+    /* background: linear-gradient(135deg, #0B1623, #439E9F, #217974); */
+   
+    background:rgba(45, 42, 42, 0.82);
+   
+    padding: 10px; 
     border-radius: 10px;
     font-size: 1.4rem;
+    color: white;
 }
 
 .bell_icon{

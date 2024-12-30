@@ -2,12 +2,35 @@
     /* height: 120vh; */
     /* max-height: 150vh; */
     /* height: fit-content; */
-    background: linear-gradient(135deg, #0B1623, #439E9F, #217974);
-    /* background: linear-gradient(135deg, #0B1623, #9f4379, #212d79); */
+    /* background: linear-gradient(135deg, #0B1623, #439E9F, #217974); */
      padding-bottom: 25vh; 
+     /* background-image: url('/images/chatgptimage.webp'); */
     /* margin: 30px; */
+
 }
-.poora-container{
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700; /* Bold for headings */
+  }
+  
+  p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400; /* Normal weight for body text */
+  }
+  
+  .button {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600; /* Semi-bold for call-to-action buttons */
+  }
+  
+  
+
+.poora-container{background-color: white;
     height: fit-content !important;
 }
 .container{
@@ -23,13 +46,13 @@
 
 .profile{
     /* border: 2px solid red; */
-    width: 18%;
+    width: 20%;
     position: relative;
-    /* left: 7%; */
+    left: -1%;
     top: 6%;
     height: fit-content !important;
 
-    background-color: white;
+    background-color: rgba(45, 42, 42, 0.82);
     border-radius: 10px;
     height: 35vh;
     box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -104,5 +127,7 @@ img{
     position: relative;
     flex-direction: column;
     top: 20vh;
-    gap: 2vh;
+    gap: 5vh;
 }
+.data_section{display: flex;
+flex-direction: column;}

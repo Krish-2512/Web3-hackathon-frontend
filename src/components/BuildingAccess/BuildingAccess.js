@@ -193,7 +193,7 @@ const HomePage = () => {
             type="text"
             value={propertyID2}
             onChange={handleInputChange1}
-            placeholder="Enter Property ID"
+            placeholder="Enter Resort ID"
             className="property-id-input"
           />
           <input
