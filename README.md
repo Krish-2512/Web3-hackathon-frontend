@@ -25,15 +25,17 @@ The const folder inside the src folder contains the addresses of all the smart c
 
 ## Home Screen
 This screen holds the main structure of the website. It contains different options to perform different tasks to request and send claims to other users or receive and send information to other users. This screen contains the AVATAR for the person, which is made by using GenAI
-
 ![Home1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/homepg5.jpg)
 
 
 
-
 ## Docker Screen
-This screen gives you all the documents uploaded by you, you can upload more documents to it. For managing documents, I have used IPFS as storing big files on the Blockchain is expensive
-
+This screen enables users to upload and manage documents with ease. IPFS provides a decentralized and cost-effective storage solution, helping to avoid the expensive fees associated with storing large files on the blockchain.For managing documents, I have used IPFS as storing big files on the Blockchain is expensive
+### Role of Docker:
+**Containerization**: Guarantees consistent deployment of IPFS and blockchain services.
+**Scalability**: Manages high traffic during busy tourism seasons.
+**Efficiency**: Enhances resource usage and streamlines updates.
+**Security**: Isolates components to safeguard sensitive operations.
 ![ipfs1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/docker1.png)
 
 
