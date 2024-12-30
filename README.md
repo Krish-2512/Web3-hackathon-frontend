@@ -46,7 +46,7 @@ It offers the option to create a new poll and displays all the polls in our cont
 ### Building Access Screen
 This screen displays all your permanent properties, as well as any temporary ones (i.e., properties to which someone else has granted you access for a limited time). From this screen, you can manage all your properties, including those to which you have access. Additionally, you can check who has entered your property using the form in the bottom left corner 
 
-![Resort1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort3.png)
+![Resort1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort4.png)
 ![Resort2](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort2.png)
 ![Resort3](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/resort1.png)
 
