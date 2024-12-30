@@ -33,8 +33,11 @@ This screen holds the main structure of the website. It contains different optio
 This screen enables users to upload and manage documents with ease. IPFS provides a decentralized and cost-effective storage solution, helping to avoid the expensive fees associated with storing large files on the blockchain.For managing documents, I have used IPFS as storing big files on the Blockchain is expensive
 ### Role of Docker:
 **Containerization**: Guarantees consistent deployment of IPFS and blockchain services.
+
 **Scalability**: Manages high traffic during busy tourism seasons.
+
 **Efficiency**: Enhances resource usage and streamlines updates.
+
 **Security**: Isolates components to safeguard sensitive operations.
 ![ipfs1](https://github.com/Krish-2512/Web3-hackathon-frontend/blob/master/img/docker1.png)
 
