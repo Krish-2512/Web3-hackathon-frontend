@@ -1,5 +1,6 @@
 # DOC-Chain Frontend
->The Complete Solution to the Digital Identity Problem. 
+>**DocChain**
+>**Enhancing Sustainable Eco-Tourism in Northeast India:** A Blockchain-Based Solution with Transparent Voting, Claims Management, and Secure Deployment
 
 ---
 
